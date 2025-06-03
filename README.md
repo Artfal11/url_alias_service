@@ -14,8 +14,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Artfal11/url-alias-service.git
-cd url-alias-service
+git clone https://github.com/Artfal11/url_alias_service.git
+cd url_alias_service
 ```
 
 2. Создайте виртуальное окружение:
